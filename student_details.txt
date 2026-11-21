@@ -1,0 +1,7 @@
+Student Details
+
+Name: Rahul Sharma
+Roll No: 101
+Branch: Computer Science
+Year: 2nd Year
+CGPA: 8.75
